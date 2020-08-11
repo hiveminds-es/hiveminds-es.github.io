@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "about"
+  name = "Sobre nosotros"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Publicaciones"
+  url = "posts"
+  weight = 2
