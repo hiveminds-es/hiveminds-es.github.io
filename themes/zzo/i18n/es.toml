@@ -1,0 +1,101 @@
+[search-placeholder]
+other = "Búsqueda"
+
+[summary-dateformat]
+other = "Jan 2, 2006"
+
+[reading-time]
+other = "tiempo de lectura"
+
+[tags]
+other = "Etiquetas"
+
+[categories]
+other = "Categorías"
+
+[series]
+other = "Series"
+
+[archive-dateformat]
+other = "Jan 2"
+
+[talks-dateformat]
+other = "Jan 2"
+
+[single-dateformat]
+other = "Jan 2, 2006"
+
+[pub-dateformat]
+other = "2006-01-02"
+
+[resume-dateformat]
+other = "Jan, 2006"
+
+[single-related]
+other = "Ver también"
+
+[single-writtenBy]
+other = "ESCRITO POR"
+
+[toc-label]
+other = "Qué hay en esta página"
+
+[counter-site-pv]
+other = "Visualizaciones totales"
+
+[counter-site-uv]
+other = "Visitas totales"
+
+[counter-page-pv]
+other = "visitas"
+
+[donate-message]
+other = "Support the author with"
+
+[share-message]
+other = "Share on"
+
+[contact-name]
+other = "Name"
+
+[contact-email]
+other = "Email"
+
+[contact-tel]
+other = "Tel"
+
+[contact-file]
+other = "File"
+
+[contact-message]
+other = "Message"
+
+[contact-send]
+other = "Send"
+
+[contact-browse]
+other = "Browse"
+
+[tooltip-home]
+other = "Home"
+
+[tooltip-written]
+other = "Written At"
+
+[tooltip-modified]
+other = "Modified At"
+
+[tooltip-reading-time]
+other = "Reading Time"
+
+[showcase-overview]
+other = "Overview"
+
+[showcase-pinned]
+other = "Pinned"
+
+[nojs-message]
+other = "This page looks best with JavaScript enabled"
+
+[posts-by-order]
+other = "TOP POSTS"

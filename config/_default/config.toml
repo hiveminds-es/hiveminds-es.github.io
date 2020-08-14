@@ -2,7 +2,7 @@ baseURL = "blog.hiveminds.es"
 title = "Hive Mind Blog"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
