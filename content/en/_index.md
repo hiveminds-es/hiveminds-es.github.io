@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HiveMinds
+      - Hive Mind's blog
     subtitle:
-      - The Hive Minds blog, here the hive shares knowladge and wisedoom.
+      - The Hive Mind's blog, here the hive shares knowladge and wisedoom.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
