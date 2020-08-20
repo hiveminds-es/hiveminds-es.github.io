@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Windows on The Hive Mind Blog</title>
+    <link>https://blog.hiveminds.es/en/tags/windows/</link>
+    <description>Recent content in Windows on The Hive Mind Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hiveminds_es@protonmail.com (hiveminds_es)</managingEditor>
+    <webMaster>hiveminds_es@protonmail.com (hiveminds_es)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 20:00:06 +0100</lastBuildDate>
+    
+        <atom:link href="https://blog.hiveminds.es/en/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>CVE-2020-1337: my two cents</title>
+        <link>https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/</link>
+        <pubDate>Tue, 11 Aug 2020 20:00:06 +0100</pubDate>
+        <author>hiveminds_es@protonmail.com (hiveminds_es)</author>
+        <atom:modified>Tue, 11 Aug 2020 20:00:06 +0100</atom:modified>
+        <guid>https://blog.hiveminds.es/en/posts/cve-2020-1337_my_two_cents/</guid>
+        <description>In January of this year, Peleg Hadar (@peleghd) and Tomer Bar reported to Microsoft, without publicly releasing any details, a Windows Print Spooler vulnerability that could allow privilege elevation from Windows 7 onwards. The security updates intended for that vulnerability (CVE-2020-1048) were released by Microsoft on May 12.
+On the same day, Alex Ionescu (@aionescu) and Yarden Shafir (@yarden_shafir), who collided discovering the vulnerability, published a very detailed blog post about it: PrintDemon: Print Spooler Privilege Escalation, Persistence &amp;amp; Stealth (CVE-2020-1048 &amp;amp; more).</description>
+        
+        <dc:creator>neofito</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>EoP</category>
+            
+          
+            
+              <category>CVE-2020-1337</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+            
+              <category>Exploitation</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
