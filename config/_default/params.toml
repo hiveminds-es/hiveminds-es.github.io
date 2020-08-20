@@ -1,6 +1,6 @@
 logoText = "Hive Mind"
 logoType = "short" # long, short
-description = "The Hive Mind's blog, here the hive shares knowladge and wisdom."
+description = "The Hive Mind's blog, where the hive shares knowladge and wisdom."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
