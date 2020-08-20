@@ -33,5 +33,13 @@
             <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a></p>
         {{ end }}
         
+
+        {{ $clipboard := resources.Get "js/vendors/cookieinfo.min.js" | resources.Fingerprint }}
+        <script type="text/javascript" id="cookieinfo" 
+            src="{{ $clipboard.RelPermalink }}"
+            data-message="{{ i18n "cookie-message" }}"
+            >
+        </script>
+
     </div> 
 </footer>
